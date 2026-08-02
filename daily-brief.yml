@@ -1,0 +1,38 @@
+name: Daily Brief
+
+on:
+  schedule:
+    # 9:00 AM IST = 3:30 AM UTC
+    - cron: "30 3 * * *"
+  workflow_dispatch: {}  # lets you trigger it manually from the Actions tab to test
+
+permissions:
+  contents: write  # needed so the workflow can commit the updated history.json
+
+jobs:
+  send-brief:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run daily brief script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: python daily_brief.py
+
+      - name: Commit updated history
+        run: |
+          git config user.name "daily-brief-bot"
+          git config user.email "actions@github.com"
+          git add history.json
+          git diff --quiet --cached || git commit -m "Update history [skip ci]"
+          git push
