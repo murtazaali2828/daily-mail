@@ -1,6 +1,22 @@
 {
-  "algorithms": [],
-  "gre_words": [],
-  "cs_concepts": [],
-  "tips": []
+  "algorithms": [
+    "Kahn's Algorithm for Topological Sorting",
+    "Kadane's Algorithm"
+  ],
+  "gre_words": [
+    "Eschew",
+    "Fastidious",
+    "Transient",
+    "Loquacious",
+    "Equivocal",
+    "Anachronistic"
+  ],
+  "cs_concepts": [
+    "Write-Ahead Logging (WAL)",
+    "Consistent Hashing"
+  ],
+  "tips": [
+    "Mastering the STAR Method in Behavioral Interviews",
+    "Structuring Your System Design Clarifying Questions"
+  ]
 }
