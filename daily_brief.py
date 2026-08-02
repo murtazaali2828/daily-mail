@@ -22,6 +22,7 @@ from datetime import datetime
 from email.mime.text import MIMEText
 from pathlib import Path
 
+import urllib.error
 import urllib.request
 
 HISTORY_PATH = Path(__file__).parent / "history.json"
@@ -50,17 +51,24 @@ def call_gemini(prompt: str) -> str:
         "generationConfig": {"maxOutputTokens": 1500},
     }).encode()
 
-    url = (
-        f"https://generativelanguage.googleapis.com/v1beta/models/"
-        f"{MODEL}:generateContent?key={api_key}"
-    )
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
     req = urllib.request.Request(
         url,
         data=body,
-        headers={"content-type": "application/json"},
+        headers={
+            "content-type": "application/json",
+            "x-goog-api-key": api_key,
+        },
     )
-    with urllib.request.urlopen(req) as resp:
-        data = json.loads(resp.read())
+    try:
+        with urllib.request.urlopen(req) as resp:
+            data = json.loads(resp.read())
+    except urllib.error.HTTPError as e:
+        # Surface Google's actual error message instead of a bare status code,
+        # so misconfigurations (bad key, wrong model name, etc.) are obvious.
+        error_body = e.read().decode(errors="replace")
+        print(f"Gemini API error {e.code}: {error_body}", file=sys.stderr)
+        raise
     return data["candidates"][0]["content"]["parts"][0]["text"]
 
 
