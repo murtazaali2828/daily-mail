@@ -53,6 +53,12 @@ def call_gemini(prompt: str) -> str:
         "generationConfig": {
             "maxOutputTokens": 4000,
             "responseMimeType": "application/json",
+            # Gemini 3.x models "think" before answering by default, and
+            # those reasoning tokens are deducted from maxOutputTokens too -
+            # which was silently truncating our JSON. This task doesn't need
+            # reasoning, so we turn thinking off and let the full budget go
+            # to the actual output.
+            "thinkingConfig": {"thinkingBudget": 0},
         },
     }).encode()
 
