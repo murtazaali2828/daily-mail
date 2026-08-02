@@ -1,28 +1,6 @@
 {
-  "algorithms": [
-    "Kahn's Algorithm for Topological Sorting",
-    "Kadane's Algorithm",
-    "Reservoir Sampling"
-  ],
-  "gre_words": [
-    "Eschew",
-    "Fastidious",
-    "Transient",
-    "Loquacious",
-    "Equivocal",
-    "Anachronistic",
-    "Alacrity",
-    "Cogent",
-    "Ubiquitous"
-  ],
-  "cs_concepts": [
-    "Write-Ahead Logging (WAL)",
-    "Consistent Hashing",
-    "Bloom Filters"
-  ],
-  "tips": [
-    "Mastering the STAR Method in Behavioral Interviews",
-    "Structuring Your System Design Clarifying Questions",
-    "Back-of-the-Envelope Estimation Framework"
-  ]
+  "algorithms": [],
+  "gre_words": [],
+  "cs_concepts": [],
+  "tips": []
 }
