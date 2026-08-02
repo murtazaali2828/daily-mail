@@ -28,7 +28,7 @@ import urllib.request
 HISTORY_PATH = Path(__file__).parent / "history.json"
 # gemini-2.5-flash is on the free tier: 10 requests/min, 250 requests/day.
 # We use 1 request/day, so this is nowhere near the limit.
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-3.6-flash"
 MAX_HISTORY_ITEMS = 60  # per category, to keep prompt size sane
 
 
