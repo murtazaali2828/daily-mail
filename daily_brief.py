@@ -26,8 +26,10 @@ import urllib.error
 import urllib.request
 
 HISTORY_PATH = Path(__file__).parent / "history.json"
-# gemini-2.5-flash is on the free tier: 10 requests/min, 250 requests/day.
-# We use 1 request/day, so this is nowhere near the limit.
+# gemini-2.5-flash was retired for new API keys (Aug 2026). gemini-3.6-flash
+# is the current stable Flash model on the free tier. If this ever 404s
+# again, check https://ai.google.dev/gemini-api/docs/models for the current
+# model list — Google retires versions periodically.
 MODEL = "gemini-3.6-flash"
 MAX_HISTORY_ITEMS = 60  # per category, to keep prompt size sane
 
@@ -48,7 +50,10 @@ def call_gemini(prompt: str) -> str:
     api_key = os.environ["GEMINI_API_KEY"]
     body = json.dumps({
         "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"maxOutputTokens": 1500},
+        "generationConfig": {
+            "maxOutputTokens": 4000,
+            "responseMimeType": "application/json",
+        },
     }).encode()
 
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
