@@ -366,7 +366,7 @@ def render_email_html(content: dict) -> str:
 
 def send_email(text_body: str, html_body: str) -> None:
     msg = MIMEMultipart("alternative")
-    msg["Subject"] = f"🌅 Daily Brief — {datetime.now().strftime('%b %d, %Y')}"
+    msg["Subject"] = f"Daily Brief — {datetime.now().strftime('%b %d, %Y')}"
     msg["From"] = os.environ["SMTP_USER"]
     msg["To"] = os.environ["MAIL_TO"]
 
