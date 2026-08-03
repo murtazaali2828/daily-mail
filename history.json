@@ -1,16 +1,22 @@
 {
   "algorithms": [
-    "Kadane's Algorithm"
+    "Kadane's Algorithm",
+    "Floyd's Cycle Detection Algorithm"
   ],
   "gre_words": [
     "Ubiquitous",
     "Equivocate",
-    "Fastidious"
+    "Fastidious",
+    "Pugnacious",
+    "Ephemeral",
+    "Acumen"
   ],
   "cs_concepts": [
-    "B-Tree Indexing"
+    "B-Tree Indexing",
+    "CAP Theorem"
   ],
   "tips": [
-    "Clarify Constraints Before Coding"
+    "Clarify Constraints Before Coding",
+    "Talk Out Loud During Coding Interviews"
   ]
 }
