@@ -1,6 +1,16 @@
 {
-  "algorithms": [],
-  "gre_words": [],
-  "cs_concepts": [],
-  "tips": []
+  "algorithms": [
+    "Floyd-Warshall Algorithm"
+  ],
+  "gre_words": [
+    "Ephemeral",
+    "Fastidious",
+    "Cogent"
+  ],
+  "cs_concepts": [
+    "Write-Ahead Logging (WAL)"
+  ],
+  "tips": [
+    "Clarify Constraints Before Coding"
+  ]
 }
