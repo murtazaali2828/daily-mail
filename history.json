@@ -1,16 +1,22 @@
 {
   "algorithms": [
-    "Floyd-Warshall Algorithm"
+    "Floyd-Warshall Algorithm",
+    "Kadane's Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
     "Fastidious",
-    "Cogent"
+    "Cogent",
+    "Perspicacious",
+    "Equivocate",
+    "Alacrity"
   ],
   "cs_concepts": [
-    "Write-Ahead Logging (WAL)"
+    "Write-Ahead Logging (WAL)",
+    "Consistent Hashing"
   ],
   "tips": [
-    "Clarify Constraints Before Coding"
+    "Clarify Constraints Before Coding",
+    "Think Out Loud During Coding Interviews"
   ]
 }
