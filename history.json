@@ -1,7 +1,8 @@
 {
   "algorithms": [
     "Floyd-Warshall Algorithm",
-    "Kadane's Algorithm"
+    "Kadane's Algorithm",
+    "Tarjan's Strongly Connected Components Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
@@ -9,14 +10,19 @@
     "Cogent",
     "Perspicacious",
     "Equivocate",
-    "Alacrity"
+    "Alacrity",
+    "Obdurate",
+    "Anachronism",
+    "Taciturn"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
-    "Consistent Hashing"
+    "Consistent Hashing",
+    "LSM-Tree (Log-Structured Merge-Tree)"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
-    "Think Out Loud During Coding Interviews"
+    "Think Out Loud During Coding Interviews",
+    "Quantify Scale Early in System Design"
   ]
 }
