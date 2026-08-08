@@ -3,7 +3,8 @@
     "Floyd-Warshall Algorithm",
     "Kadane's Algorithm",
     "Tarjan's Strongly Connected Components Algorithm",
-    "A* Search Algorithm"
+    "A* Search Algorithm",
+    "Reservoir Sampling"
   ],
   "gre_words": [
     "Ephemeral",
@@ -17,18 +18,23 @@
     "Taciturn",
     "Capricious",
     "Recalcitrant",
-    "Sycophant"
+    "Sycophant",
+    "Inchoate",
+    "Ubiquitous",
+    "Lugubrious"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
     "Consistent Hashing",
     "LSM-Tree (Log-Structured Merge-Tree)",
-    "Bloom Filter"
+    "Bloom Filter",
+    "Two-Phase Commit Protocol"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
     "Think Out Loud During Coding Interviews",
     "Quantify Scale Early in System Design",
-    "Lead with Trade-Offs in System Architecture"
+    "Lead with Trade-Offs in System Architecture",
+    "Use the STAR Method for Behavioral Questions"
   ]
 }
