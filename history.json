@@ -4,7 +4,8 @@
     "Kadane's Algorithm",
     "Tarjan's Strongly Connected Components Algorithm",
     "A* Search Algorithm",
-    "Reservoir Sampling"
+    "Reservoir Sampling",
+    "Fenwick Tree (Binary Indexed Tree)"
   ],
   "gre_words": [
     "Ephemeral",
@@ -21,20 +22,25 @@
     "Sycophant",
     "Inchoate",
     "Ubiquitous",
-    "Lugubrious"
+    "Lugubrious",
+    "Specious",
+    "Enervate",
+    "Proclivity"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
     "Consistent Hashing",
     "LSM-Tree (Log-Structured Merge-Tree)",
     "Bloom Filter",
-    "Two-Phase Commit Protocol"
+    "Two-Phase Commit Protocol",
+    "Multi-Version Concurrency Control (MVCC)"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
     "Think Out Loud During Coding Interviews",
     "Quantify Scale Early in System Design",
     "Lead with Trade-Offs in System Architecture",
-    "Use the STAR Method for Behavioral Questions"
+    "Use the STAR Method for Behavioral Questions",
+    "Design for Failure in Distributed Systems"
   ]
 }
