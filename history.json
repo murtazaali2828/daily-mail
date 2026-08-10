@@ -5,7 +5,8 @@
     "Tarjan's Strongly Connected Components Algorithm",
     "A* Search Algorithm",
     "Reservoir Sampling",
-    "Fenwick Tree (Binary Indexed Tree)"
+    "Fenwick Tree (Binary Indexed Tree)",
+    "Knuth-Morris-Pratt (KMP) Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
@@ -25,7 +26,10 @@
     "Lugubrious",
     "Specious",
     "Enervate",
-    "Proclivity"
+    "Proclivity",
+    "Perfunctory",
+    "Mendacious",
+    "Pugnacious"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -33,7 +37,8 @@
     "LSM-Tree (Log-Structured Merge-Tree)",
     "Bloom Filter",
     "Two-Phase Commit Protocol",
-    "Multi-Version Concurrency Control (MVCC)"
+    "Multi-Version Concurrency Control (MVCC)",
+    "Vector Clocks"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -41,6 +46,7 @@
     "Quantify Scale Early in System Design",
     "Lead with Trade-Offs in System Architecture",
     "Use the STAR Method for Behavioral Questions",
-    "Design for Failure in Distributed Systems"
+    "Design for Failure in Distributed Systems",
+    "Drive Strategy Using Concrete Sample Inputs"
   ]
 }
