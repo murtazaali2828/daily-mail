@@ -6,7 +6,8 @@
     "A* Search Algorithm",
     "Reservoir Sampling",
     "Fenwick Tree (Binary Indexed Tree)",
-    "Knuth-Morris-Pratt (KMP) Algorithm"
+    "Knuth-Morris-Pratt (KMP) Algorithm",
+    "Quickselect Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
@@ -29,7 +30,10 @@
     "Proclivity",
     "Perfunctory",
     "Mendacious",
-    "Pugnacious"
+    "Pugnacious",
+    "Iconoclast",
+    "Pellucid",
+    "Loquacious"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -38,7 +42,8 @@
     "Bloom Filter",
     "Two-Phase Commit Protocol",
     "Multi-Version Concurrency Control (MVCC)",
-    "Vector Clocks"
+    "Vector Clocks",
+    "Raft Consensus Algorithm"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -47,6 +52,7 @@
     "Lead with Trade-Offs in System Architecture",
     "Use the STAR Method for Behavioral Questions",
     "Design for Failure in Distributed Systems",
-    "Drive Strategy Using Concrete Sample Inputs"
+    "Drive Strategy Using Concrete Sample Inputs",
+    "Highlight Bottlenecks Before Writing System Code"
   ]
 }
