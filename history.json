@@ -2,11 +2,6 @@
   "algorithms": [
     "Floyd-Warshall Algorithm",
     "Kadane's Algorithm",
-    "Tarjan's Strongly Connected Components Algorithm",
-    "A* Search Algorithm",
-    "Reservoir Sampling",
-    "Fenwick Tree (Binary Indexed Tree)",
-    "Knuth-Morris-Pratt (KMP) Algorithm",
     "Quickselect Algorithm"
   ],
   "gre_words": [
@@ -16,21 +11,6 @@
     "Perspicacious",
     "Equivocate",
     "Alacrity",
-    "Obdurate",
-    "Anachronism",
-    "Taciturn",
-    "Capricious",
-    "Recalcitrant",
-    "Sycophant",
-    "Inchoate",
-    "Ubiquitous",
-    "Lugubrious",
-    "Specious",
-    "Enervate",
-    "Proclivity",
-    "Perfunctory",
-    "Mendacious",
-    "Pugnacious",
     "Iconoclast",
     "Pellucid",
     "Loquacious"
@@ -38,21 +18,11 @@
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
     "Consistent Hashing",
-    "LSM-Tree (Log-Structured Merge-Tree)",
-    "Bloom Filter",
-    "Two-Phase Commit Protocol",
-    "Multi-Version Concurrency Control (MVCC)",
-    "Vector Clocks",
     "Raft Consensus Algorithm"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
     "Think Out Loud During Coding Interviews",
-    "Quantify Scale Early in System Design",
-    "Lead with Trade-Offs in System Architecture",
-    "Use the STAR Method for Behavioral Questions",
-    "Design for Failure in Distributed Systems",
-    "Drive Strategy Using Concrete Sample Inputs",
     "Highlight Bottlenecks Before Writing System Code"
   ]
 }
