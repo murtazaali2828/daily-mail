@@ -2,7 +2,8 @@
   "algorithms": [
     "Floyd-Warshall Algorithm",
     "Kadane's Algorithm",
-    "Quickselect Algorithm"
+    "Quickselect Algorithm",
+    "Boyer-Moore Majority Vote Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
@@ -13,16 +14,21 @@
     "Alacrity",
     "Iconoclast",
     "Pellucid",
-    "Loquacious"
+    "Loquacious",
+    "Inchoate",
+    "Obfuscate",
+    "Recalcitrant"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
     "Consistent Hashing",
-    "Raft Consensus Algorithm"
+    "Raft Consensus Algorithm",
+    "LSM-Tree (Log-Structured Merge-Tree)"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
     "Think Out Loud During Coding Interviews",
-    "Highlight Bottlenecks Before Writing System Code"
+    "Highlight Bottlenecks Before Writing System Code",
+    "Quantify Impact with Metrics"
   ]
 }
