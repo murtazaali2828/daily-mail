@@ -3,7 +3,8 @@
     "Floyd-Warshall Algorithm",
     "Kadane's Algorithm",
     "Quickselect Algorithm",
-    "Boyer-Moore Majority Vote Algorithm"
+    "Boyer-Moore Majority Vote Algorithm",
+    "Tarjan's Strongly Connected Components Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
@@ -17,18 +18,23 @@
     "Loquacious",
     "Inchoate",
     "Obfuscate",
-    "Recalcitrant"
+    "Recalcitrant",
+    "Verisimilitude",
+    "Taciturn",
+    "Exacerbate"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
     "Consistent Hashing",
     "Raft Consensus Algorithm",
-    "LSM-Tree (Log-Structured Merge-Tree)"
+    "LSM-Tree (Log-Structured Merge-Tree)",
+    "Bloom Filter"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
     "Think Out Loud During Coding Interviews",
     "Highlight Bottlenecks Before Writing System Code",
-    "Quantify Impact with Metrics"
+    "Quantify Impact with Metrics",
+    "Design for Idempotency in API Endpoints"
   ]
 }
