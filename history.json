@@ -4,7 +4,8 @@
     "Kadane's Algorithm",
     "Quickselect Algorithm",
     "Boyer-Moore Majority Vote Algorithm",
-    "Tarjan's Strongly Connected Components Algorithm"
+    "Tarjan's Strongly Connected Components Algorithm",
+    "Knuth-Morris-Pratt (KMP) Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
@@ -21,20 +22,25 @@
     "Recalcitrant",
     "Verisimilitude",
     "Taciturn",
-    "Exacerbate"
+    "Exacerbate",
+    "Ebullient",
+    "Anachronistic",
+    "Salubrious"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
     "Consistent Hashing",
     "Raft Consensus Algorithm",
     "LSM-Tree (Log-Structured Merge-Tree)",
-    "Bloom Filter"
+    "Bloom Filter",
+    "Two-Phase Commit Protocol (2PC)"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
     "Think Out Loud During Coding Interviews",
     "Highlight Bottlenecks Before Writing System Code",
     "Quantify Impact with Metrics",
-    "Design for Idempotency in API Endpoints"
+    "Design for Idempotency in API Endpoints",
+    "Use the STAR Method for Behavioral Questions"
   ]
 }
