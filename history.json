@@ -5,7 +5,8 @@
     "Quickselect Algorithm",
     "Boyer-Moore Majority Vote Algorithm",
     "Tarjan's Strongly Connected Components Algorithm",
-    "Knuth-Morris-Pratt (KMP) Algorithm"
+    "Knuth-Morris-Pratt (KMP) Algorithm",
+    "A* Search Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
@@ -25,7 +26,10 @@
     "Exacerbate",
     "Ebullient",
     "Anachronistic",
-    "Salubrious"
+    "Salubrious",
+    "Sycophant",
+    "Erudite",
+    "Mitigate"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -33,7 +37,8 @@
     "Raft Consensus Algorithm",
     "LSM-Tree (Log-Structured Merge-Tree)",
     "Bloom Filter",
-    "Two-Phase Commit Protocol (2PC)"
+    "Two-Phase Commit Protocol (2PC)",
+    "Circuit Breaker Pattern"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -41,6 +46,7 @@
     "Highlight Bottlenecks Before Writing System Code",
     "Quantify Impact with Metrics",
     "Design for Idempotency in API Endpoints",
-    "Use the STAR Method for Behavioral Questions"
+    "Use the STAR Method for Behavioral Questions",
+    "Mastering Trade-Off Analysis in Architecture Design"
   ]
 }
