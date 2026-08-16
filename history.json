@@ -6,7 +6,8 @@
     "Boyer-Moore Majority Vote Algorithm",
     "Tarjan's Strongly Connected Components Algorithm",
     "Knuth-Morris-Pratt (KMP) Algorithm",
-    "A* Search Algorithm"
+    "A* Search Algorithm",
+    "Disjoint-Set Union (DSU) Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
@@ -29,7 +30,10 @@
     "Salubrious",
     "Sycophant",
     "Erudite",
-    "Mitigate"
+    "Mitigate",
+    "Capricious",
+    "Inscrutable",
+    "Perfidy"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -38,7 +42,8 @@
     "LSM-Tree (Log-Structured Merge-Tree)",
     "Bloom Filter",
     "Two-Phase Commit Protocol (2PC)",
-    "Circuit Breaker Pattern"
+    "Circuit Breaker Pattern",
+    "Read-Copy-Update (RCU)"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -47,6 +52,7 @@
     "Quantify Impact with Metrics",
     "Design for Idempotency in API Endpoints",
     "Use the STAR Method for Behavioral Questions",
-    "Mastering Trade-Off Analysis in Architecture Design"
+    "Mastering Trade-Off Analysis in Architecture Design",
+    "Frame Past Failures as Learning Opportunities"
   ]
 }
