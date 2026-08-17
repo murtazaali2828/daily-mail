@@ -7,7 +7,8 @@
     "Tarjan's Strongly Connected Components Algorithm",
     "Knuth-Morris-Pratt (KMP) Algorithm",
     "A* Search Algorithm",
-    "Disjoint-Set Union (DSU) Algorithm"
+    "Disjoint-Set Union (DSU) Algorithm",
+    "Floyd's Cycle-Finding Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
@@ -33,7 +34,10 @@
     "Mitigate",
     "Capricious",
     "Inscrutable",
-    "Perfidy"
+    "Perfidy",
+    "Proclivity",
+    "Pugnacious",
+    "Gregarious"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -43,7 +47,8 @@
     "Bloom Filter",
     "Two-Phase Commit Protocol (2PC)",
     "Circuit Breaker Pattern",
-    "Read-Copy-Update (RCU)"
+    "Read-Copy-Update (RCU)",
+    "Copy-on-Write (COW)"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -53,6 +58,7 @@
     "Design for Idempotency in API Endpoints",
     "Use the STAR Method for Behavioral Questions",
     "Mastering Trade-Off Analysis in Architecture Design",
-    "Frame Past Failures as Learning Opportunities"
+    "Frame Past Failures as Learning Opportunities",
+    "Lead with High-Level Architecture in System Design"
   ]
 }
