@@ -8,7 +8,8 @@
     "Knuth-Morris-Pratt (KMP) Algorithm",
     "A* Search Algorithm",
     "Disjoint-Set Union (DSU) Algorithm",
-    "Floyd's Cycle-Finding Algorithm"
+    "Floyd's Cycle-Finding Algorithm",
+    "Kahn's Algorithm for Topological Sorting"
   ],
   "gre_words": [
     "Ephemeral",
@@ -37,7 +38,10 @@
     "Perfidy",
     "Proclivity",
     "Pugnacious",
-    "Gregarious"
+    "Gregarious",
+    "Trenchant",
+    "Abstruse",
+    "Mendacious"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -48,7 +52,8 @@
     "Two-Phase Commit Protocol (2PC)",
     "Circuit Breaker Pattern",
     "Read-Copy-Update (RCU)",
-    "Copy-on-Write (COW)"
+    "Copy-on-Write (COW)",
+    "Token Bucket Algorithm"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -59,6 +64,7 @@
     "Use the STAR Method for Behavioral Questions",
     "Mastering Trade-Off Analysis in Architecture Design",
     "Frame Past Failures as Learning Opportunities",
-    "Lead with High-Level Architecture in System Design"
+    "Lead with High-Level Architecture in System Design",
+    "Proactively Identify Edge Cases During Coding"
   ]
 }
