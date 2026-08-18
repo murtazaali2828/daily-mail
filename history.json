@@ -3,13 +3,7 @@
     "Floyd-Warshall Algorithm",
     "Kadane's Algorithm",
     "Quickselect Algorithm",
-    "Boyer-Moore Majority Vote Algorithm",
-    "Tarjan's Strongly Connected Components Algorithm",
-    "Knuth-Morris-Pratt (KMP) Algorithm",
-    "A* Search Algorithm",
-    "Disjoint-Set Union (DSU) Algorithm",
-    "Floyd's Cycle-Finding Algorithm",
-    "Kahn's Algorithm for Topological Sorting"
+    "Boyer-Moore Majority Vote Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
@@ -23,48 +17,18 @@
     "Loquacious",
     "Inchoate",
     "Obfuscate",
-    "Recalcitrant",
-    "Verisimilitude",
-    "Taciturn",
-    "Exacerbate",
-    "Ebullient",
-    "Anachronistic",
-    "Salubrious",
-    "Sycophant",
-    "Erudite",
-    "Mitigate",
-    "Capricious",
-    "Inscrutable",
-    "Perfidy",
-    "Proclivity",
-    "Pugnacious",
-    "Gregarious",
-    "Trenchant",
-    "Abstruse",
-    "Mendacious"
+    "Recalcitrant"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
     "Consistent Hashing",
     "Raft Consensus Algorithm",
-    "LSM-Tree (Log-Structured Merge-Tree)",
-    "Bloom Filter",
-    "Two-Phase Commit Protocol (2PC)",
-    "Circuit Breaker Pattern",
-    "Read-Copy-Update (RCU)",
-    "Copy-on-Write (COW)",
-    "Token Bucket Algorithm"
+    "LSM-Tree (Log-Structured Merge-Tree)"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
     "Think Out Loud During Coding Interviews",
     "Highlight Bottlenecks Before Writing System Code",
-    "Quantify Impact with Metrics",
-    "Design for Idempotency in API Endpoints",
-    "Use the STAR Method for Behavioral Questions",
-    "Mastering Trade-Off Analysis in Architecture Design",
-    "Frame Past Failures as Learning Opportunities",
-    "Lead with High-Level Architecture in System Design",
-    "Proactively Identify Edge Cases During Coding"
+    "Quantify Impact with Metrics"
   ]
 }
