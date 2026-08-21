@@ -5,7 +5,8 @@
     "Quickselect Algorithm",
     "Boyer-Moore Majority Vote Algorithm",
     "Tarjan's Strongly Connected Components Algorithm",
-    "A* Search Algorithm"
+    "A* Search Algorithm",
+    "Rabin-Karp Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
@@ -25,7 +26,10 @@
     "Mitigate",
     "Proclivity",
     "Grandiloquent",
-    "Assiduous"
+    "Assiduous",
+    "Pugnacious",
+    "Capricious",
+    "Anachronistic"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -33,7 +37,8 @@
     "Raft Consensus Algorithm",
     "LSM-Tree (Log-Structured Merge-Tree)",
     "Bloom Filter",
-    "Two-Phase Commit Protocol (2PC)"
+    "Two-Phase Commit Protocol (2PC)",
+    "Vector Clocks"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -41,6 +46,7 @@
     "Highlight Bottlenecks Before Writing System Code",
     "Quantify Impact with Metrics",
     "Use the STAR Method for Behavioral Questions",
-    "Design for Failure with Graceful Degradation"
+    "Design for Failure with Graceful Degradation",
+    "Estimate Capacity Early with Back-of-the-Envelope Math"
   ]
 }
