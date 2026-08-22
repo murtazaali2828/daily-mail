@@ -6,7 +6,8 @@
     "Boyer-Moore Majority Vote Algorithm",
     "Tarjan's Strongly Connected Components Algorithm",
     "A* Search Algorithm",
-    "Rabin-Karp Algorithm"
+    "Rabin-Karp Algorithm",
+    "Reservoir Sampling"
   ],
   "gre_words": [
     "Ephemeral",
@@ -29,7 +30,10 @@
     "Assiduous",
     "Pugnacious",
     "Capricious",
-    "Anachronistic"
+    "Anachronistic",
+    "Intransigent",
+    "Perfunctory",
+    "Specious"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -38,7 +42,8 @@
     "LSM-Tree (Log-Structured Merge-Tree)",
     "Bloom Filter",
     "Two-Phase Commit Protocol (2PC)",
-    "Vector Clocks"
+    "Vector Clocks",
+    "Circuit Breaker Pattern"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -47,6 +52,7 @@
     "Quantify Impact with Metrics",
     "Use the STAR Method for Behavioral Questions",
     "Design for Failure with Graceful Degradation",
-    "Estimate Capacity Early with Back-of-the-Envelope Math"
+    "Estimate Capacity Early with Back-of-the-Envelope Math",
+    "Drive System Design via Data Flow"
   ]
 }
