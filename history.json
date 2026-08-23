@@ -7,7 +7,8 @@
     "Tarjan's Strongly Connected Components Algorithm",
     "A* Search Algorithm",
     "Rabin-Karp Algorithm",
-    "Reservoir Sampling"
+    "Reservoir Sampling",
+    "Fenwick Tree (Binary Indexed Tree)"
   ],
   "gre_words": [
     "Ephemeral",
@@ -33,7 +34,10 @@
     "Anachronistic",
     "Intransigent",
     "Perfunctory",
-    "Specious"
+    "Specious",
+    "Sycophant",
+    "Tenuous",
+    "Avarice"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -43,7 +47,8 @@
     "Bloom Filter",
     "Two-Phase Commit Protocol (2PC)",
     "Vector Clocks",
-    "Circuit Breaker Pattern"
+    "Circuit Breaker Pattern",
+    "Multi-Version Concurrency Control (MVCC)"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -53,6 +58,7 @@
     "Use the STAR Method for Behavioral Questions",
     "Design for Failure with Graceful Degradation",
     "Estimate Capacity Early with Back-of-the-Envelope Math",
-    "Drive System Design via Data Flow"
+    "Drive System Design via Data Flow",
+    "Proactively Discuss Trade-offs in System Architecture"
   ]
 }
