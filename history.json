@@ -8,7 +8,8 @@
     "A* Search Algorithm",
     "Rabin-Karp Algorithm",
     "Reservoir Sampling",
-    "Fenwick Tree (Binary Indexed Tree)"
+    "Fenwick Tree (Binary Indexed Tree)",
+    "Kahn's Algorithm for Topological Sort"
   ],
   "gre_words": [
     "Ephemeral",
@@ -37,7 +38,10 @@
     "Specious",
     "Sycophant",
     "Tenuous",
-    "Avarice"
+    "Avarice",
+    "Esoteric",
+    "Laconic",
+    "Mercurial"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -48,7 +52,8 @@
     "Two-Phase Commit Protocol (2PC)",
     "Vector Clocks",
     "Circuit Breaker Pattern",
-    "Multi-Version Concurrency Control (MVCC)"
+    "Multi-Version Concurrency Control (MVCC)",
+    "Event Sourcing"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -59,6 +64,7 @@
     "Design for Failure with Graceful Degradation",
     "Estimate Capacity Early with Back-of-the-Envelope Math",
     "Drive System Design via Data Flow",
-    "Proactively Discuss Trade-offs in System Architecture"
+    "Proactively Discuss Trade-offs in System Architecture",
+    "Address Edge Cases Explicitly Before Code Freeze"
   ]
 }
