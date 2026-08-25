@@ -2,7 +2,8 @@
   "algorithms": [
     "Floyd-Warshall Algorithm",
     "Kadane's Algorithm",
-    "Boyer-Moore Majority Vote Algorithm"
+    "Boyer-Moore Majority Vote Algorithm",
+    "Tarjan's Strongly Connected Components Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
@@ -10,17 +11,22 @@
     "Cogent",
     "Perspicacious",
     "Equivocate",
-    "Alacrity"
+    "Alacrity",
+    "Obdurate",
+    "Taciturn",
+    "Intransigent"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
     "Consistent Hashing",
-    "LSM-Tree (Log-Structured Merge-Tree)"
+    "LSM-Tree (Log-Structured Merge-Tree)",
+    "Two-Phase Commit Protocol (2PC)"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
     "Think Out Loud During Coding Interviews",
     "Highlight Bottlenecks Before Writing System Code",
-    "Quantify Impact with Metrics"
+    "Quantify Impact with Metrics",
+    "Structure Behavioral Answers with the STAR Method"
   ]
 }
