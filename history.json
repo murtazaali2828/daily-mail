@@ -4,7 +4,8 @@
     "Kadane's Algorithm",
     "Boyer-Moore Majority Vote Algorithm",
     "Tarjan's Strongly Connected Components Algorithm",
-    "Reservoir Sampling"
+    "Reservoir Sampling",
+    "Rabin-Karp Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
@@ -18,14 +19,18 @@
     "Intransigent",
     "Pellucid",
     "Ebullient",
-    "Recalcitrant"
+    "Recalcitrant",
+    "Loquacious",
+    "Inchoate",
+    "Erudite"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
     "Consistent Hashing",
     "LSM-Tree (Log-Structured Merge-Tree)",
     "Two-Phase Commit Protocol (2PC)",
-    "Bloom Filter"
+    "Bloom Filter",
+    "CAP Theorem (Brewer's Theorem)"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -33,6 +38,7 @@
     "Highlight Bottlenecks Before Writing System Code",
     "Quantify Impact with Metrics",
     "Structure Behavioral Answers with the STAR Method",
-    "Ask Strategic Questions at the End of the Interview"
+    "Ask Strategic Questions at the End of the Interview",
+    "Mastering System Design Trade-off Justifications"
   ]
 }
