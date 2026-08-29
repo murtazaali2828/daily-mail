@@ -5,7 +5,8 @@
     "Boyer-Moore Majority Vote Algorithm",
     "Tarjan's Strongly Connected Components Algorithm",
     "Reservoir Sampling",
-    "Rabin-Karp Algorithm"
+    "Rabin-Karp Algorithm",
+    "Quickselect"
   ],
   "gre_words": [
     "Ephemeral",
@@ -22,7 +23,10 @@
     "Recalcitrant",
     "Loquacious",
     "Inchoate",
-    "Erudite"
+    "Erudite",
+    "Sanguine",
+    "Punctilious",
+    "Pugnacious"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -30,7 +34,8 @@
     "LSM-Tree (Log-Structured Merge-Tree)",
     "Two-Phase Commit Protocol (2PC)",
     "Bloom Filter",
-    "CAP Theorem (Brewer's Theorem)"
+    "CAP Theorem (Brewer's Theorem)",
+    "Token Bucket Algorithm"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -39,6 +44,7 @@
     "Quantify Impact with Metrics",
     "Structure Behavioral Answers with the STAR Method",
     "Ask Strategic Questions at the End of the Interview",
-    "Mastering System Design Trade-off Justifications"
+    "Mastering System Design Trade-off Justifications",
+    "Perform Back-of-the-Envelope Estimation"
   ]
 }
