@@ -6,7 +6,8 @@
     "Tarjan's Strongly Connected Components Algorithm",
     "Reservoir Sampling",
     "Rabin-Karp Algorithm",
-    "Quickselect"
+    "Quickselect",
+    "Kahn's Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
@@ -26,7 +27,10 @@
     "Erudite",
     "Sanguine",
     "Punctilious",
-    "Pugnacious"
+    "Pugnacious",
+    "Perfidious",
+    "Anachronistic",
+    "Esoteric"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -35,7 +39,8 @@
     "Two-Phase Commit Protocol (2PC)",
     "Bloom Filter",
     "CAP Theorem (Brewer's Theorem)",
-    "Token Bucket Algorithm"
+    "Token Bucket Algorithm",
+    "Circuit Breaker Pattern"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -45,6 +50,7 @@
     "Structure Behavioral Answers with the STAR Method",
     "Ask Strategic Questions at the End of the Interview",
     "Mastering System Design Trade-off Justifications",
-    "Perform Back-of-the-Envelope Estimation"
+    "Perform Back-of-the-Envelope Estimation",
+    "Handle Edge Cases Explicitly"
   ]
 }
