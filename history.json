@@ -7,7 +7,8 @@
     "Reservoir Sampling",
     "Rabin-Karp Algorithm",
     "Quickselect",
-    "Kahn's Algorithm"
+    "Kahn's Algorithm",
+    "Union-Find (Disjoint Set Union)"
   ],
   "gre_words": [
     "Ephemeral",
@@ -30,7 +31,10 @@
     "Pugnacious",
     "Perfidious",
     "Anachronistic",
-    "Esoteric"
+    "Esoteric",
+    "Audacious",
+    "Trenchant",
+    "Proclivity"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -40,7 +44,8 @@
     "Bloom Filter",
     "CAP Theorem (Brewer's Theorem)",
     "Token Bucket Algorithm",
-    "Circuit Breaker Pattern"
+    "Circuit Breaker Pattern",
+    "B+ Tree Indexing"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -51,6 +56,7 @@
     "Ask Strategic Questions at the End of the Interview",
     "Mastering System Design Trade-off Justifications",
     "Perform Back-of-the-Envelope Estimation",
-    "Handle Edge Cases Explicitly"
+    "Handle Edge Cases Explicitly",
+    "Dry Run Your Code with Concrete Examples"
   ]
 }
