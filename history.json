@@ -8,7 +8,8 @@
     "Rabin-Karp Algorithm",
     "Quickselect",
     "Kahn's Algorithm",
-    "Union-Find (Disjoint Set Union)"
+    "Union-Find (Disjoint Set Union)",
+    "A* Search Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
@@ -34,7 +35,10 @@
     "Esoteric",
     "Audacious",
     "Trenchant",
-    "Proclivity"
+    "Proclivity",
+    "Verisimilitude",
+    "Mendacious",
+    "Salubrious"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -45,7 +49,8 @@
     "CAP Theorem (Brewer's Theorem)",
     "Token Bucket Algorithm",
     "Circuit Breaker Pattern",
-    "B+ Tree Indexing"
+    "B+ Tree Indexing",
+    "Gossip Protocol"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -57,6 +62,7 @@
     "Mastering System Design Trade-off Justifications",
     "Perform Back-of-the-Envelope Estimation",
     "Handle Edge Cases Explicitly",
-    "Dry Run Your Code with Concrete Examples"
+    "Dry Run Your Code with Concrete Examples",
+    "Architect for Graceful Degradation"
   ]
 }
