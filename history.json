@@ -9,7 +9,8 @@
     "Quickselect",
     "Kahn's Algorithm",
     "Union-Find (Disjoint Set Union)",
-    "A* Search Algorithm"
+    "A* Search Algorithm",
+    "Manacher's Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
@@ -38,7 +39,10 @@
     "Proclivity",
     "Verisimilitude",
     "Mendacious",
-    "Salubrious"
+    "Salubrious",
+    "Prevaricate",
+    "Laconic",
+    "Capricious"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -50,7 +54,8 @@
     "Token Bucket Algorithm",
     "Circuit Breaker Pattern",
     "B+ Tree Indexing",
-    "Gossip Protocol"
+    "Gossip Protocol",
+    "Vector Clocks"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -63,6 +68,7 @@
     "Perform Back-of-the-Envelope Estimation",
     "Handle Edge Cases Explicitly",
     "Dry Run Your Code with Concrete Examples",
-    "Architect for Graceful Degradation"
+    "Architect for Graceful Degradation",
+    "Proactively Discuss Observability and Telemetry"
   ]
 }
