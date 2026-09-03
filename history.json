@@ -10,7 +10,8 @@
     "Kahn's Algorithm",
     "Union-Find (Disjoint Set Union)",
     "A* Search Algorithm",
-    "Manacher's Algorithm"
+    "Manacher's Algorithm",
+    "Fenwick Tree (Binary Indexed Tree)"
   ],
   "gre_words": [
     "Ephemeral",
@@ -42,7 +43,10 @@
     "Salubrious",
     "Prevaricate",
     "Laconic",
-    "Capricious"
+    "Capricious",
+    "Inscrutable",
+    "Grandiloquent",
+    "Nefarious"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -55,7 +59,8 @@
     "Circuit Breaker Pattern",
     "B+ Tree Indexing",
     "Gossip Protocol",
-    "Vector Clocks"
+    "Vector Clocks",
+    "Count-Min Sketch"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -69,6 +74,7 @@
     "Handle Edge Cases Explicitly",
     "Dry Run Your Code with Concrete Examples",
     "Architect for Graceful Degradation",
-    "Proactively Discuss Observability and Telemetry"
+    "Proactively Discuss Observability and Telemetry",
+    "Design for Idempotency in Distributed APIs"
   ]
 }
