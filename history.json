@@ -11,7 +11,8 @@
     "Union-Find (Disjoint Set Union)",
     "A* Search Algorithm",
     "Manacher's Algorithm",
-    "Fenwick Tree (Binary Indexed Tree)"
+    "Fenwick Tree (Binary Indexed Tree)",
+    "Floyd's Cycle-Finding Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
@@ -46,7 +47,10 @@
     "Capricious",
     "Inscrutable",
     "Grandiloquent",
-    "Nefarious"
+    "Nefarious",
+    "Inexorable",
+    "Subsume",
+    "Diffident"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -60,7 +64,8 @@
     "B+ Tree Indexing",
     "Gossip Protocol",
     "Vector Clocks",
-    "Count-Min Sketch"
+    "Count-Min Sketch",
+    "Read-Copy-Update (RCU)"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -75,6 +80,7 @@
     "Dry Run Your Code with Concrete Examples",
     "Architect for Graceful Degradation",
     "Proactively Discuss Observability and Telemetry",
-    "Design for Idempotency in Distributed APIs"
+    "Design for Idempotency in Distributed APIs",
+    "Lead with Trade-Off Analysis in Architectural Discussions"
   ]
 }
