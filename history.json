@@ -12,7 +12,8 @@
     "A* Search Algorithm",
     "Manacher's Algorithm",
     "Fenwick Tree (Binary Indexed Tree)",
-    "Floyd's Cycle-Finding Algorithm"
+    "Floyd's Cycle-Finding Algorithm",
+    "Monotonic Stack"
   ],
   "gre_words": [
     "Ephemeral",
@@ -50,7 +51,10 @@
     "Nefarious",
     "Inexorable",
     "Subsume",
-    "Diffident"
+    "Diffident",
+    "Assiduous",
+    "Castigate",
+    "Magnanimous"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -65,7 +69,8 @@
     "Gossip Protocol",
     "Vector Clocks",
     "Count-Min Sketch",
-    "Read-Copy-Update (RCU)"
+    "Read-Copy-Update (RCU)",
+    "PACELC Theorem"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -81,6 +86,7 @@
     "Architect for Graceful Degradation",
     "Proactively Discuss Observability and Telemetry",
     "Design for Idempotency in Distributed APIs",
-    "Lead with Trade-Off Analysis in Architectural Discussions"
+    "Lead with Trade-Off Analysis in Architectural Discussions",
+    "Demonstrate Product-Minded Thinking in System Design"
   ]
 }
