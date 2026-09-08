@@ -13,7 +13,8 @@
     "Manacher's Algorithm",
     "Fenwick Tree (Binary Indexed Tree)",
     "Floyd's Cycle-Finding Algorithm",
-    "Monotonic Stack"
+    "Monotonic Stack",
+    "Kosaraju's Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
@@ -54,7 +55,10 @@
     "Diffident",
     "Assiduous",
     "Castigate",
-    "Magnanimous"
+    "Magnanimous",
+    "Inimical",
+    "Mercurial",
+    "Supercilious"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -70,7 +74,8 @@
     "Vector Clocks",
     "Count-Min Sketch",
     "Read-Copy-Update (RCU)",
-    "PACELC Theorem"
+    "PACELC Theorem",
+    "HyperLogLog"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -87,6 +92,7 @@
     "Proactively Discuss Observability and Telemetry",
     "Design for Idempotency in Distributed APIs",
     "Lead with Trade-Off Analysis in Architectural Discussions",
-    "Demonstrate Product-Minded Thinking in System Design"
+    "Demonstrate Product-Minded Thinking in System Design",
+    "Explicitly Address Cache Invalidation Strategies"
   ]
 }
