@@ -14,7 +14,8 @@
     "Fenwick Tree (Binary Indexed Tree)",
     "Floyd's Cycle-Finding Algorithm",
     "Monotonic Stack",
-    "Kosaraju's Algorithm"
+    "Kosaraju's Algorithm",
+    "Bellman-Ford Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
@@ -58,7 +59,10 @@
     "Magnanimous",
     "Inimical",
     "Mercurial",
-    "Supercilious"
+    "Supercilious",
+    "Iconoclastic",
+    "Invective",
+    "Sycophant"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -75,7 +79,8 @@
     "Count-Min Sketch",
     "Read-Copy-Update (RCU)",
     "PACELC Theorem",
-    "HyperLogLog"
+    "HyperLogLog",
+    "Saga Pattern"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -93,6 +98,7 @@
     "Design for Idempotency in Distributed APIs",
     "Lead with Trade-Off Analysis in Architectural Discussions",
     "Demonstrate Product-Minded Thinking in System Design",
-    "Explicitly Address Cache Invalidation Strategies"
+    "Explicitly Address Cache Invalidation Strategies",
+    "Prioritize Backward Compatibility in API Design"
   ]
 }
