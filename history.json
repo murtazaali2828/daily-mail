@@ -15,7 +15,8 @@
     "Floyd's Cycle-Finding Algorithm",
     "Monotonic Stack",
     "Kosaraju's Algorithm",
-    "Bellman-Ford Algorithm"
+    "Bellman-Ford Algorithm",
+    "Hierholzer's Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
@@ -62,7 +63,10 @@
     "Supercilious",
     "Iconoclastic",
     "Invective",
-    "Sycophant"
+    "Sycophant",
+    "Vicissitude",
+    "Lugubrious",
+    "Obsequious"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -80,7 +84,8 @@
     "Read-Copy-Update (RCU)",
     "PACELC Theorem",
     "HyperLogLog",
-    "Saga Pattern"
+    "Saga Pattern",
+    "Structural Sharing in Persistent Data Structures"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -99,6 +104,7 @@
     "Lead with Trade-Off Analysis in Architectural Discussions",
     "Demonstrate Product-Minded Thinking in System Design",
     "Explicitly Address Cache Invalidation Strategies",
-    "Prioritize Backward Compatibility in API Design"
+    "Prioritize Backward Compatibility in API Design",
+    "Emphasize Failure Mode Analysis in System Design"
   ]
 }
