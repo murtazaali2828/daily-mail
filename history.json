@@ -16,7 +16,8 @@
     "Monotonic Stack",
     "Kosaraju's Algorithm",
     "Bellman-Ford Algorithm",
-    "Hierholzer's Algorithm"
+    "Hierholzer's Algorithm",
+    "Graham Scan Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
@@ -66,7 +67,10 @@
     "Sycophant",
     "Vicissitude",
     "Lugubrious",
-    "Obsequious"
+    "Obsequious",
+    "Truculent",
+    "Propitiate",
+    "Avarice"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -85,7 +89,8 @@
     "PACELC Theorem",
     "HyperLogLog",
     "Saga Pattern",
-    "Structural Sharing in Persistent Data Structures"
+    "Structural Sharing in Persistent Data Structures",
+    "Event Sourcing"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -105,6 +110,7 @@
     "Demonstrate Product-Minded Thinking in System Design",
     "Explicitly Address Cache Invalidation Strategies",
     "Prioritize Backward Compatibility in API Design",
-    "Emphasize Failure Mode Analysis in System Design"
+    "Emphasize Failure Mode Analysis in System Design",
+    "Frame Architecture with Financial Constraints"
   ]
 }
