@@ -17,7 +17,8 @@
     "Kosaraju's Algorithm",
     "Bellman-Ford Algorithm",
     "Hierholzer's Algorithm",
-    "Graham Scan Algorithm"
+    "Graham Scan Algorithm",
+    "Z Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
@@ -70,7 +71,10 @@
     "Obsequious",
     "Truculent",
     "Propitiate",
-    "Avarice"
+    "Avarice",
+    "Parsimonious",
+    "Querulous",
+    "Dissemble"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -90,7 +94,8 @@
     "HyperLogLog",
     "Saga Pattern",
     "Structural Sharing in Persistent Data Structures",
-    "Event Sourcing"
+    "Event Sourcing",
+    "Generational Garbage Collection"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -111,6 +116,7 @@
     "Explicitly Address Cache Invalidation Strategies",
     "Prioritize Backward Compatibility in API Design",
     "Emphasize Failure Mode Analysis in System Design",
-    "Frame Architecture with Financial Constraints"
+    "Frame Architecture with Financial Constraints",
+    "Differentiate Latency and Throughput Requirements"
   ]
 }
