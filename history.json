@@ -18,7 +18,8 @@
     "Bellman-Ford Algorithm",
     "Hierholzer's Algorithm",
     "Graham Scan Algorithm",
-    "Z Algorithm"
+    "Z Algorithm",
+    "Knuth-Morris-Pratt (KMP) Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
@@ -74,7 +75,10 @@
     "Avarice",
     "Parsimonious",
     "Querulous",
-    "Dissemble"
+    "Dissemble",
+    "Perfunctory",
+    "Ignominious",
+    "Turpitude"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -95,7 +99,8 @@
     "Saga Pattern",
     "Structural Sharing in Persistent Data Structures",
     "Event Sourcing",
-    "Generational Garbage Collection"
+    "Generational Garbage Collection",
+    "Multi-Version Concurrency Control (MVCC)"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -117,6 +122,7 @@
     "Prioritize Backward Compatibility in API Design",
     "Emphasize Failure Mode Analysis in System Design",
     "Frame Architecture with Financial Constraints",
-    "Differentiate Latency and Throughput Requirements"
+    "Differentiate Latency and Throughput Requirements",
+    "Proactively Address Security in System Design"
   ]
 }
