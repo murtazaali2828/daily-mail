@@ -19,7 +19,8 @@
     "Hierholzer's Algorithm",
     "Graham Scan Algorithm",
     "Z Algorithm",
-    "Knuth-Morris-Pratt (KMP) Algorithm"
+    "Knuth-Morris-Pratt (KMP) Algorithm",
+    "Prim's Algorithm"
   ],
   "gre_words": [
     "Ephemeral",
@@ -78,7 +79,10 @@
     "Dissemble",
     "Perfunctory",
     "Ignominious",
-    "Turpitude"
+    "Turpitude",
+    "Calumny",
+    "Puerile",
+    "Sybarite"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -100,7 +104,8 @@
     "Structural Sharing in Persistent Data Structures",
     "Event Sourcing",
     "Generational Garbage Collection",
-    "Multi-Version Concurrency Control (MVCC)"
+    "Multi-Version Concurrency Control (MVCC)",
+    "Raft Consensus Algorithm"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -123,6 +128,7 @@
     "Emphasize Failure Mode Analysis in System Design",
     "Frame Architecture with Financial Constraints",
     "Differentiate Latency and Throughput Requirements",
-    "Proactively Address Security in System Design"
+    "Proactively Address Security in System Design",
+    "Demonstrate Operational Awareness in System Design"
   ]
 }
