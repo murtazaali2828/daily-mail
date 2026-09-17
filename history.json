@@ -20,12 +20,10 @@
     "Graham Scan Algorithm",
     "Z Algorithm",
     "Knuth-Morris-Pratt (KMP) Algorithm",
-    "Prim's Algorithm"
+    "Prim's Algorithm",
+    "Segment Tree"
   ],
   "gre_words": [
-    "Ephemeral",
-    "Fastidious",
-    "Cogent",
     "Perspicacious",
     "Equivocate",
     "Alacrity",
@@ -82,7 +80,10 @@
     "Turpitude",
     "Calumny",
     "Puerile",
-    "Sybarite"
+    "Sybarite",
+    "Abstruse",
+    "Profligate",
+    "Exculpate"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -105,7 +106,8 @@
     "Event Sourcing",
     "Generational Garbage Collection",
     "Multi-Version Concurrency Control (MVCC)",
-    "Raft Consensus Algorithm"
+    "Raft Consensus Algorithm",
+    "Database Sharding Strategies"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -129,6 +131,7 @@
     "Frame Architecture with Financial Constraints",
     "Differentiate Latency and Throughput Requirements",
     "Proactively Address Security in System Design",
-    "Demonstrate Operational Awareness in System Design"
+    "Demonstrate Operational Awareness in System Design",
+    "Articulate Testing Strategies in System Design"
   ]
 }
