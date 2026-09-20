@@ -21,12 +21,10 @@
     "Z Algorithm",
     "Knuth-Morris-Pratt (KMP) Algorithm",
     "Prim's Algorithm",
-    "Segment Tree"
+    "Segment Tree",
+    "Aho-Corasick Algorithm"
   ],
   "gre_words": [
-    "Perspicacious",
-    "Equivocate",
-    "Alacrity",
     "Obdurate",
     "Taciturn",
     "Intransigent",
@@ -83,7 +81,10 @@
     "Sybarite",
     "Abstruse",
     "Profligate",
-    "Exculpate"
+    "Exculpate",
+    "Apocryphal",
+    "Penury",
+    "Contrite"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -107,7 +108,8 @@
     "Generational Garbage Collection",
     "Multi-Version Concurrency Control (MVCC)",
     "Raft Consensus Algorithm",
-    "Database Sharding Strategies"
+    "Database Sharding Strategies",
+    "Connection Pooling"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -132,6 +134,7 @@
     "Differentiate Latency and Throughput Requirements",
     "Proactively Address Security in System Design",
     "Demonstrate Operational Awareness in System Design",
-    "Articulate Testing Strategies in System Design"
+    "Articulate Testing Strategies in System Design",
+    "Highlight Migration and Rollback Strategies in System Design"
   ]
 }
