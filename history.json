@@ -22,12 +22,10 @@
     "Knuth-Morris-Pratt (KMP) Algorithm",
     "Prim's Algorithm",
     "Segment Tree",
-    "Aho-Corasick Algorithm"
+    "Aho-Corasick Algorithm",
+    "Kruskal's Algorithm"
   ],
   "gre_words": [
-    "Obdurate",
-    "Taciturn",
-    "Intransigent",
     "Pellucid",
     "Ebullient",
     "Recalcitrant",
@@ -84,7 +82,10 @@
     "Exculpate",
     "Apocryphal",
     "Penury",
-    "Contrite"
+    "Contrite",
+    "Equivocate",
+    "Fastidious",
+    "Alacrity"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -109,7 +110,8 @@
     "Multi-Version Concurrency Control (MVCC)",
     "Raft Consensus Algorithm",
     "Database Sharding Strategies",
-    "Connection Pooling"
+    "Connection Pooling",
+    "Write-Through vs. Write-Back Caching"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -135,6 +137,7 @@
     "Proactively Address Security in System Design",
     "Demonstrate Operational Awareness in System Design",
     "Articulate Testing Strategies in System Design",
-    "Highlight Migration and Rollback Strategies in System Design"
+    "Highlight Migration and Rollback Strategies in System Design",
+    "Proactively Plan for Database Schema Migrations"
   ]
 }
