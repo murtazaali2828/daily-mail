@@ -23,12 +23,10 @@
     "Prim's Algorithm",
     "Segment Tree",
     "Aho-Corasick Algorithm",
-    "Kruskal's Algorithm"
+    "Kruskal's Algorithm",
+    "Ford-Fulkerson Algorithm"
   ],
   "gre_words": [
-    "Pellucid",
-    "Ebullient",
-    "Recalcitrant",
     "Loquacious",
     "Inchoate",
     "Erudite",
@@ -85,7 +83,10 @@
     "Contrite",
     "Equivocate",
     "Fastidious",
-    "Alacrity"
+    "Alacrity",
+    "Obdurate",
+    "Intransigent",
+    "Perspicacious"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -111,7 +112,8 @@
     "Raft Consensus Algorithm",
     "Database Sharding Strategies",
     "Connection Pooling",
-    "Write-Through vs. Write-Back Caching"
+    "Write-Through vs. Write-Back Caching",
+    "Work-Stealing Scheduling"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -138,6 +140,7 @@
     "Demonstrate Operational Awareness in System Design",
     "Articulate Testing Strategies in System Design",
     "Highlight Migration and Rollback Strategies in System Design",
-    "Proactively Plan for Database Schema Migrations"
+    "Proactively Plan for Database Schema Migrations",
+    "Proactively Address Data Retention and Compliance"
   ]
 }
