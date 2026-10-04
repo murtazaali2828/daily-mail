@@ -24,12 +24,10 @@
     "Segment Tree",
     "Aho-Corasick Algorithm",
     "Kruskal's Algorithm",
-    "Ford-Fulkerson Algorithm"
+    "Ford-Fulkerson Algorithm",
+    "Binary Lifting for Lowest Common Ancestor"
   ],
   "gre_words": [
-    "Loquacious",
-    "Inchoate",
-    "Erudite",
     "Sanguine",
     "Punctilious",
     "Pugnacious",
@@ -86,7 +84,10 @@
     "Alacrity",
     "Obdurate",
     "Intransigent",
-    "Perspicacious"
+    "Perspicacious",
+    "Insouciant",
+    "Blandishment",
+    "Pellucid"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -113,7 +114,8 @@
     "Database Sharding Strategies",
     "Connection Pooling",
     "Write-Through vs. Write-Back Caching",
-    "Work-Stealing Scheduling"
+    "Work-Stealing Scheduling",
+    "Copy-on-Write (COW) Memory Management"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -141,6 +143,7 @@
     "Articulate Testing Strategies in System Design",
     "Highlight Migration and Rollback Strategies in System Design",
     "Proactively Plan for Database Schema Migrations",
-    "Proactively Address Data Retention and Compliance"
+    "Proactively Address Data Retention and Compliance",
+    "Address Rate Limiting and Backpressure Early"
   ]
 }
