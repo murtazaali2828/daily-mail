@@ -25,12 +25,10 @@
     "Aho-Corasick Algorithm",
     "Kruskal's Algorithm",
     "Ford-Fulkerson Algorithm",
-    "Binary Lifting for Lowest Common Ancestor"
+    "Binary Lifting for Lowest Common Ancestor",
+    "Johnson's Algorithm"
   ],
   "gre_words": [
-    "Sanguine",
-    "Punctilious",
-    "Pugnacious",
     "Perfidious",
     "Anachronistic",
     "Esoteric",
@@ -87,7 +85,10 @@
     "Perspicacious",
     "Insouciant",
     "Blandishment",
-    "Pellucid"
+    "Pellucid",
+    "Enervate",
+    "Sartorial",
+    "Ebullient"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -115,7 +116,8 @@
     "Connection Pooling",
     "Write-Through vs. Write-Back Caching",
     "Work-Stealing Scheduling",
-    "Copy-on-Write (COW) Memory Management"
+    "Copy-on-Write (COW) Memory Management",
+    "Deadlock Detection via Wait-For Graphs"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -144,6 +146,7 @@
     "Highlight Migration and Rollback Strategies in System Design",
     "Proactively Plan for Database Schema Migrations",
     "Proactively Address Data Retention and Compliance",
-    "Address Rate Limiting and Backpressure Early"
+    "Address Rate Limiting and Backpressure Early",
+    "Address Load Balancing and Health Checking Early"
   ]
 }
