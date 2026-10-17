@@ -26,12 +26,10 @@
     "Kruskal's Algorithm",
     "Ford-Fulkerson Algorithm",
     "Binary Lifting for Lowest Common Ancestor",
-    "Johnson's Algorithm"
+    "Johnson's Algorithm",
+    "Convex Hull Trick"
   ],
   "gre_words": [
-    "Perfidious",
-    "Anachronistic",
-    "Esoteric",
     "Audacious",
     "Trenchant",
     "Proclivity",
@@ -88,7 +86,10 @@
     "Pellucid",
     "Enervate",
     "Sartorial",
-    "Ebullient"
+    "Ebullient",
+    "Panegyric",
+    "Vituperative",
+    "Sedulous"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -117,7 +118,8 @@
     "Write-Through vs. Write-Back Caching",
     "Work-Stealing Scheduling",
     "Copy-on-Write (COW) Memory Management",
-    "Deadlock Detection via Wait-For Graphs"
+    "Deadlock Detection via Wait-For Graphs",
+    "Skip List"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -147,6 +149,7 @@
     "Proactively Plan for Database Schema Migrations",
     "Proactively Address Data Retention and Compliance",
     "Address Rate Limiting and Backpressure Early",
-    "Address Load Balancing and Health Checking Early"
+    "Address Load Balancing and Health Checking Early",
+    "Incorporate Chaos Engineering into Design Discussions"
   ]
 }
