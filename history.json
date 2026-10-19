@@ -27,12 +27,10 @@
     "Ford-Fulkerson Algorithm",
     "Binary Lifting for Lowest Common Ancestor",
     "Johnson's Algorithm",
-    "Convex Hull Trick"
+    "Convex Hull Trick",
+    "Hopcroft-Karp Algorithm"
   ],
   "gre_words": [
-    "Audacious",
-    "Trenchant",
-    "Proclivity",
     "Verisimilitude",
     "Mendacious",
     "Salubrious",
@@ -89,7 +87,10 @@
     "Ebullient",
     "Panegyric",
     "Vituperative",
-    "Sedulous"
+    "Sedulous",
+    "Pusillanimous",
+    "Peregrination",
+    "Obstreperous"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -119,7 +120,8 @@
     "Work-Stealing Scheduling",
     "Copy-on-Write (COW) Memory Management",
     "Deadlock Detection via Wait-For Graphs",
-    "Skip List"
+    "Skip List",
+    "Epoch-Based Reclamation"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -150,6 +152,7 @@
     "Proactively Address Data Retention and Compliance",
     "Address Rate Limiting and Backpressure Early",
     "Address Load Balancing and Health Checking Early",
-    "Incorporate Chaos Engineering into Design Discussions"
+    "Incorporate Chaos Engineering into Design Discussions",
+    "Articulate Specific Consistency Guarantees"
   ]
 }
