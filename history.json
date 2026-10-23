@@ -28,12 +28,10 @@
     "Binary Lifting for Lowest Common Ancestor",
     "Johnson's Algorithm",
     "Convex Hull Trick",
-    "Hopcroft-Karp Algorithm"
+    "Hopcroft-Karp Algorithm",
+    "Hungarian Algorithm"
   ],
   "gre_words": [
-    "Verisimilitude",
-    "Mendacious",
-    "Salubrious",
     "Prevaricate",
     "Laconic",
     "Capricious",
@@ -90,7 +88,10 @@
     "Sedulous",
     "Pusillanimous",
     "Peregrination",
-    "Obstreperous"
+    "Obstreperous",
+    "Ineffable",
+    "Cogent",
+    "Sanguine"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -121,7 +122,8 @@
     "Copy-on-Write (COW) Memory Management",
     "Deadlock Detection via Wait-For Graphs",
     "Skip List",
-    "Epoch-Based Reclamation"
+    "Epoch-Based Reclamation",
+    "R-Tree Indexing"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -153,6 +155,7 @@
     "Address Rate Limiting and Backpressure Early",
     "Address Load Balancing and Health Checking Early",
     "Incorporate Chaos Engineering into Design Discussions",
-    "Articulate Specific Consistency Guarantees"
+    "Articulate Specific Consistency Guarantees",
+    "Proactively Address Multi-Tenant Isolation Strategies"
   ]
 }
