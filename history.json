@@ -29,12 +29,10 @@
     "Johnson's Algorithm",
     "Convex Hull Trick",
     "Hopcroft-Karp Algorithm",
-    "Hungarian Algorithm"
+    "Hungarian Algorithm",
+    "Mo's Algorithm"
   ],
   "gre_words": [
-    "Prevaricate",
-    "Laconic",
-    "Capricious",
     "Inscrutable",
     "Grandiloquent",
     "Nefarious",
@@ -91,7 +89,10 @@
     "Obstreperous",
     "Ineffable",
     "Cogent",
-    "Sanguine"
+    "Sanguine",
+    "Recalcitrant",
+    "Proclivity",
+    "Specious"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -123,7 +124,8 @@
     "Deadlock Detection via Wait-For Graphs",
     "Skip List",
     "Epoch-Based Reclamation",
-    "R-Tree Indexing"
+    "R-Tree Indexing",
+    "Chandy-Lamport Snapshot Algorithm"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -156,6 +158,7 @@
     "Address Load Balancing and Health Checking Early",
     "Incorporate Chaos Engineering into Design Discussions",
     "Articulate Specific Consistency Guarantees",
-    "Proactively Address Multi-Tenant Isolation Strategies"
+    "Proactively Address Multi-Tenant Isolation Strategies",
+    "Address Asynchronous vs Synchronous Processing Early"
   ]
 }
