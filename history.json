@@ -30,12 +30,10 @@
     "Convex Hull Trick",
     "Hopcroft-Karp Algorithm",
     "Hungarian Algorithm",
-    "Mo's Algorithm"
+    "Mo's Algorithm",
+    "Sweep Line Algorithm"
   ],
   "gre_words": [
-    "Inscrutable",
-    "Grandiloquent",
-    "Nefarious",
     "Inexorable",
     "Subsume",
     "Diffident",
@@ -92,7 +90,10 @@
     "Sanguine",
     "Recalcitrant",
     "Proclivity",
-    "Specious"
+    "Specious",
+    "Munificent",
+    "Exigent",
+    "Salubrious"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -125,7 +126,8 @@
     "Skip List",
     "Epoch-Based Reclamation",
     "R-Tree Indexing",
-    "Chandy-Lamport Snapshot Algorithm"
+    "Chandy-Lamport Snapshot Algorithm",
+    "Memory-Mapped Files (mmap)"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -159,6 +161,7 @@
     "Incorporate Chaos Engineering into Design Discussions",
     "Articulate Specific Consistency Guarantees",
     "Proactively Address Multi-Tenant Isolation Strategies",
-    "Address Asynchronous vs Synchronous Processing Early"
+    "Address Asynchronous vs Synchronous Processing Early",
+    "Plan for Graceful Shutdowns and Connection Draining"
   ]
 }
