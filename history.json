@@ -31,12 +31,10 @@
     "Hopcroft-Karp Algorithm",
     "Hungarian Algorithm",
     "Mo's Algorithm",
-    "Sweep Line Algorithm"
+    "Sweep Line Algorithm",
+    "Dijkstra's Algorithm"
   ],
   "gre_words": [
-    "Inexorable",
-    "Subsume",
-    "Diffident",
     "Assiduous",
     "Castigate",
     "Magnanimous",
@@ -93,7 +91,10 @@
     "Specious",
     "Munificent",
     "Exigent",
-    "Salubrious"
+    "Salubrious",
+    "Trenchant",
+    "Laconic",
+    "Grandiloquent"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -127,7 +128,8 @@
     "Epoch-Based Reclamation",
     "R-Tree Indexing",
     "Chandy-Lamport Snapshot Algorithm",
-    "Memory-Mapped Files (mmap)"
+    "Memory-Mapped Files (mmap)",
+    "Zero-Copy I/O"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -162,6 +164,7 @@
     "Articulate Specific Consistency Guarantees",
     "Proactively Address Multi-Tenant Isolation Strategies",
     "Address Asynchronous vs Synchronous Processing Early",
-    "Plan for Graceful Shutdowns and Connection Draining"
+    "Plan for Graceful Shutdowns and Connection Draining",
+    "Define SLAs, SLOs, and SLIs in System Design"
   ]
 }
