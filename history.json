@@ -32,12 +32,10 @@
     "Hungarian Algorithm",
     "Mo's Algorithm",
     "Sweep Line Algorithm",
-    "Dijkstra's Algorithm"
+    "Dijkstra's Algorithm",
+    "Extended Euclidean Algorithm"
   ],
   "gre_words": [
-    "Assiduous",
-    "Castigate",
-    "Magnanimous",
     "Inimical",
     "Mercurial",
     "Supercilious",
@@ -94,7 +92,10 @@
     "Salubrious",
     "Trenchant",
     "Laconic",
-    "Grandiloquent"
+    "Grandiloquent",
+    "Eschew",
+    "Excoriate",
+    "Perfidy"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -129,7 +130,8 @@
     "R-Tree Indexing",
     "Chandy-Lamport Snapshot Algorithm",
     "Memory-Mapped Files (mmap)",
-    "Zero-Copy I/O"
+    "Zero-Copy I/O",
+    "Software Transactional Memory (STM)"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -165,6 +167,7 @@
     "Proactively Address Multi-Tenant Isolation Strategies",
     "Address Asynchronous vs Synchronous Processing Early",
     "Plan for Graceful Shutdowns and Connection Draining",
-    "Define SLAs, SLOs, and SLIs in System Design"
+    "Define SLAs, SLOs, and SLIs in System Design",
+    "Address Data Partition Key Skew and Hotspots"
   ]
 }
