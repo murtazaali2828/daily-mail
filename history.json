@@ -33,12 +33,10 @@
     "Mo's Algorithm",
     "Sweep Line Algorithm",
     "Dijkstra's Algorithm",
-    "Extended Euclidean Algorithm"
+    "Extended Euclidean Algorithm",
+    "Heavy-Light Decomposition"
   ],
   "gre_words": [
-    "Inimical",
-    "Mercurial",
-    "Supercilious",
     "Iconoclastic",
     "Invective",
     "Sycophant",
@@ -95,7 +93,10 @@
     "Grandiloquent",
     "Eschew",
     "Excoriate",
-    "Perfidy"
+    "Perfidy",
+    "Redoubtable",
+    "Verisimilitude",
+    "Propinquity"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -131,7 +132,8 @@
     "Chandy-Lamport Snapshot Algorithm",
     "Memory-Mapped Files (mmap)",
     "Zero-Copy I/O",
-    "Software Transactional Memory (STM)"
+    "Software Transactional Memory (STM)",
+    "MESI Cache Coherence Protocol"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -168,6 +170,7 @@
     "Address Asynchronous vs Synchronous Processing Early",
     "Plan for Graceful Shutdowns and Connection Draining",
     "Define SLAs, SLOs, and SLIs in System Design",
-    "Address Data Partition Key Skew and Hotspots"
+    "Address Data Partition Key Skew and Hotspots",
+    "Leverage Feature Flags and Canary Deployments"
   ]
 }
