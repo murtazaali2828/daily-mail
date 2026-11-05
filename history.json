@@ -34,12 +34,10 @@
     "Sweep Line Algorithm",
     "Dijkstra's Algorithm",
     "Extended Euclidean Algorithm",
-    "Heavy-Light Decomposition"
+    "Heavy-Light Decomposition",
+    "Dinic's Algorithm"
   ],
   "gre_words": [
-    "Iconoclastic",
-    "Invective",
-    "Sycophant",
     "Vicissitude",
     "Lugubrious",
     "Obsequious",
@@ -96,7 +94,10 @@
     "Perfidy",
     "Redoubtable",
     "Verisimilitude",
-    "Propinquity"
+    "Propinquity",
+    "Anachronistic",
+    "Spurious",
+    "Supercilious"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -133,7 +134,8 @@
     "Memory-Mapped Files (mmap)",
     "Zero-Copy I/O",
     "Software Transactional Memory (STM)",
-    "MESI Cache Coherence Protocol"
+    "MESI Cache Coherence Protocol",
+    "Lamport Timestamps"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -171,6 +173,7 @@
     "Plan for Graceful Shutdowns and Connection Draining",
     "Define SLAs, SLOs, and SLIs in System Design",
     "Address Data Partition Key Skew and Hotspots",
-    "Leverage Feature Flags and Canary Deployments"
+    "Leverage Feature Flags and Canary Deployments",
+    "Navigating Ambiguous Requirements with Hypothesis-Driven Framing"
   ]
 }
