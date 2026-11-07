@@ -36,12 +36,10 @@
     "Extended Euclidean Algorithm",
     "Heavy-Light Decomposition",
     "Dinic's Algorithm",
-    "Misra-Gries Heavy Hitters Algorithm"
+    "Misra-Gries Heavy Hitters Algorithm",
+    "Edmonds-Karp Algorithm"
   ],
   "gre_words": [
-    "Truculent",
-    "Propitiate",
-    "Avarice",
     "Parsimonious",
     "Querulous",
     "Dissemble",
@@ -98,7 +96,10 @@
     "Supercilious",
     "Inchoate",
     "Impecunious",
-    "Recondite"
+    "Recondite",
+    "Vicissitude",
+    "Lugubrious",
+    "Nefarious"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -137,7 +138,8 @@
     "Software Transactional Memory (STM)",
     "MESI Cache Coherence Protocol",
     "Lamport Timestamps",
-    "Cuckoo Hashing"
+    "Cuckoo Hashing",
+    "Kademlia Distributed Hash Table (DHT)"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -177,6 +179,7 @@
     "Address Data Partition Key Skew and Hotspots",
     "Leverage Feature Flags and Canary Deployments",
     "Navigating Ambiguous Requirements with Hypothesis-Driven Framing",
-    "Distinguish Micro-Optimization from Macro-Optimization"
+    "Distinguish Micro-Optimization from Macro-Optimization",
+    "Design for Disaster Recovery and Multi-Region Failover"
   ]
 }
