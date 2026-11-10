@@ -38,12 +38,10 @@
     "Dinic's Algorithm",
     "Misra-Gries Heavy Hitters Algorithm",
     "Edmonds-Karp Algorithm",
-    "Hirschberg's Algorithm"
+    "Hirschberg's Algorithm",
+    "Bor\u016fvka's Algorithm"
   ],
   "gre_words": [
-    "Perfunctory",
-    "Ignominious",
-    "Turpitude",
     "Calumny",
     "Puerile",
     "Sybarite",
@@ -100,7 +98,10 @@
     "Nefarious",
     "Truculent",
     "Tenable",
-    "Iconoclast"
+    "Iconoclast",
+    "Pugnacious",
+    "Mendacious",
+    "Querulous"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -141,7 +142,8 @@
     "Lamport Timestamps",
     "Cuckoo Hashing",
     "Kademlia Distributed Hash Table (DHT)",
-    "Roaring Bitmaps"
+    "Roaring Bitmaps",
+    "Tri-Color Marking Algorithm"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -183,6 +185,7 @@
     "Navigating Ambiguous Requirements with Hypothesis-Driven Framing",
     "Distinguish Micro-Optimization from Macro-Optimization",
     "Design for Disaster Recovery and Multi-Region Failover",
-    "Proactively Address Data Serialization Formats"
+    "Proactively Address Data Serialization Formats",
+    "Address Read-Write Splitting and Replica Lag Explicitly"
   ]
 }
