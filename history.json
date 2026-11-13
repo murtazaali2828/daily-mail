@@ -40,12 +40,10 @@
     "Edmonds-Karp Algorithm",
     "Hirschberg's Algorithm",
     "Bor\u016fvka's Algorithm",
-    "Meet-in-the-Middle Algorithm"
+    "Meet-in-the-Middle Algorithm",
+    "Dancing Links (Algorithm X)"
   ],
   "gre_words": [
-    "Abstruse",
-    "Profligate",
-    "Exculpate",
     "Apocryphal",
     "Penury",
     "Contrite",
@@ -102,7 +100,10 @@
     "Querulous",
     "Opprobrium",
     "Effrontery",
-    "Invective"
+    "Invective",
+    "Ignominious",
+    "Meretricious",
+    "Punctilious"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -145,7 +146,8 @@
     "Kademlia Distributed Hash Table (DHT)",
     "Roaring Bitmaps",
     "Tri-Color Marking Algorithm",
-    "Write Skew Anomaly"
+    "Write Skew Anomaly",
+    "Wait-Free Synchronization"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -189,6 +191,7 @@
     "Design for Disaster Recovery and Multi-Region Failover",
     "Proactively Address Data Serialization Formats",
     "Address Read-Write Splitting and Replica Lag Explicitly",
-    "Mitigating Serverless Cold-Start Latency"
+    "Mitigating Serverless Cold-Start Latency",
+    "Document Decisions using Architectural Decision Records"
   ]
 }
