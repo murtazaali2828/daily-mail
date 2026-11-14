@@ -41,12 +41,10 @@
     "Hirschberg's Algorithm",
     "Bor\u016fvka's Algorithm",
     "Meet-in-the-Middle Algorithm",
-    "Dancing Links (Algorithm X)"
+    "Dancing Links (Algorithm X)",
+    "Shunting Yard Algorithm"
   ],
   "gre_words": [
-    "Apocryphal",
-    "Penury",
-    "Contrite",
     "Equivocate",
     "Fastidious",
     "Alacrity",
@@ -103,7 +101,10 @@
     "Invective",
     "Ignominious",
     "Meretricious",
-    "Punctilious"
+    "Punctilious",
+    "Surreptitious",
+    "Phlegmatic",
+    "Abstruse"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -147,7 +148,8 @@
     "Roaring Bitmaps",
     "Tri-Color Marking Algorithm",
     "Write Skew Anomaly",
-    "Wait-Free Synchronization"
+    "Wait-Free Synchronization",
+    "False Sharing"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -192,6 +194,7 @@
     "Proactively Address Data Serialization Formats",
     "Address Read-Write Splitting and Replica Lag Explicitly",
     "Mitigating Serverless Cold-Start Latency",
-    "Document Decisions using Architectural Decision Records"
+    "Document Decisions using Architectural Decision Records",
+    "Defining and Leveraging Error Budgets in System Design"
   ]
 }
