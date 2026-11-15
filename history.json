@@ -42,12 +42,10 @@
     "Bor\u016fvka's Algorithm",
     "Meet-in-the-Middle Algorithm",
     "Dancing Links (Algorithm X)",
-    "Shunting Yard Algorithm"
+    "Shunting Yard Algorithm",
+    "Miller-Rabin Primality Test"
   ],
   "gre_words": [
-    "Equivocate",
-    "Fastidious",
-    "Alacrity",
     "Obdurate",
     "Intransigent",
     "Perspicacious",
@@ -104,7 +102,10 @@
     "Punctilious",
     "Surreptitious",
     "Phlegmatic",
-    "Abstruse"
+    "Abstruse",
+    "Profligate",
+    "Turpitude",
+    "Penurious"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -149,7 +150,8 @@
     "Tri-Color Marking Algorithm",
     "Write Skew Anomaly",
     "Wait-Free Synchronization",
-    "False Sharing"
+    "False Sharing",
+    "Linux Control Groups (cgroups)"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -195,6 +197,7 @@
     "Address Read-Write Splitting and Replica Lag Explicitly",
     "Mitigating Serverless Cold-Start Latency",
     "Document Decisions using Architectural Decision Records",
-    "Defining and Leveraging Error Budgets in System Design"
+    "Defining and Leveraging Error Budgets in System Design",
+    "Mitigating Cache Stampede via Probabilistic Early Expiration"
   ]
 }
