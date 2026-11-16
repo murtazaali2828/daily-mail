@@ -43,12 +43,10 @@
     "Meet-in-the-Middle Algorithm",
     "Dancing Links (Algorithm X)",
     "Shunting Yard Algorithm",
-    "Miller-Rabin Primality Test"
+    "Miller-Rabin Primality Test",
+    "Kasai's Algorithm"
   ],
   "gre_words": [
-    "Obdurate",
-    "Intransigent",
-    "Perspicacious",
     "Insouciant",
     "Blandishment",
     "Pellucid",
@@ -105,7 +103,10 @@
     "Abstruse",
     "Profligate",
     "Turpitude",
-    "Penurious"
+    "Penurious",
+    "Alacrity",
+    "Fastidious",
+    "Castigate"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -151,7 +152,8 @@
     "Write Skew Anomaly",
     "Wait-Free Synchronization",
     "False Sharing",
-    "Linux Control Groups (cgroups)"
+    "Linux Control Groups (cgroups)",
+    "SSTable (Sorted String Table)"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -198,6 +200,7 @@
     "Mitigating Serverless Cold-Start Latency",
     "Document Decisions using Architectural Decision Records",
     "Defining and Leveraging Error Budgets in System Design",
-    "Mitigating Cache Stampede via Probabilistic Early Expiration"
+    "Mitigating Cache Stampede via Probabilistic Early Expiration",
+    "Discuss API Versioning Strategies Explicitly"
   ]
 }
