@@ -44,12 +44,10 @@
     "Dancing Links (Algorithm X)",
     "Shunting Yard Algorithm",
     "Miller-Rabin Primality Test",
-    "Kasai's Algorithm"
+    "Kasai's Algorithm",
+    "Welzl's Algorithm"
   ],
   "gre_words": [
-    "Insouciant",
-    "Blandishment",
-    "Pellucid",
     "Enervate",
     "Sartorial",
     "Ebullient",
@@ -106,7 +104,10 @@
     "Penurious",
     "Alacrity",
     "Fastidious",
-    "Castigate"
+    "Castigate",
+    "Umbrage",
+    "Perfunctory",
+    "Numinous"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -153,7 +154,8 @@
     "Wait-Free Synchronization",
     "False Sharing",
     "Linux Control Groups (cgroups)",
-    "SSTable (Sorted String Table)"
+    "SSTable (Sorted String Table)",
+    "LMAX Disruptor Pattern"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -201,6 +203,7 @@
     "Document Decisions using Architectural Decision Records",
     "Defining and Leveraging Error Budgets in System Design",
     "Mitigating Cache Stampede via Probabilistic Early Expiration",
-    "Discuss API Versioning Strategies Explicitly"
+    "Discuss API Versioning Strategies Explicitly",
+    "Automating Architectural Fitness Functions"
   ]
 }
