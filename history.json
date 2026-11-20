@@ -45,12 +45,10 @@
     "Shunting Yard Algorithm",
     "Miller-Rabin Primality Test",
     "Kasai's Algorithm",
-    "Welzl's Algorithm"
+    "Welzl's Algorithm",
+    "Gale-Shapley Algorithm"
   ],
   "gre_words": [
-    "Enervate",
-    "Sartorial",
-    "Ebullient",
     "Panegyric",
     "Vituperative",
     "Sedulous",
@@ -107,7 +105,10 @@
     "Castigate",
     "Umbrage",
     "Perfunctory",
-    "Numinous"
+    "Numinous",
+    "Tergiversate",
+    "Puerile",
+    "Exculpate"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -155,7 +156,8 @@
     "False Sharing",
     "Linux Control Groups (cgroups)",
     "SSTable (Sorted String Table)",
-    "LMAX Disruptor Pattern"
+    "LMAX Disruptor Pattern",
+    "Split-Brain Prevention via Quorum"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -204,6 +206,7 @@
     "Defining and Leveraging Error Budgets in System Design",
     "Mitigating Cache Stampede via Probabilistic Early Expiration",
     "Discuss API Versioning Strategies Explicitly",
-    "Automating Architectural Fitness Functions"
+    "Automating Architectural Fitness Functions",
+    "Proactively Address Poison Pill Messages"
   ]
 }
