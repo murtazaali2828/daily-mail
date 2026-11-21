@@ -46,12 +46,10 @@
     "Miller-Rabin Primality Test",
     "Kasai's Algorithm",
     "Welzl's Algorithm",
-    "Gale-Shapley Algorithm"
+    "Gale-Shapley Algorithm",
+    "Stoer-Wagner Algorithm"
   ],
   "gre_words": [
-    "Panegyric",
-    "Vituperative",
-    "Sedulous",
     "Pusillanimous",
     "Peregrination",
     "Obstreperous",
@@ -108,7 +106,10 @@
     "Numinous",
     "Tergiversate",
     "Puerile",
-    "Exculpate"
+    "Exculpate",
+    "Sybarite",
+    "Perspicacious",
+    "Equanimity"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -157,7 +158,8 @@
     "Linux Control Groups (cgroups)",
     "SSTable (Sorted String Table)",
     "LMAX Disruptor Pattern",
-    "Split-Brain Prevention via Quorum"
+    "Split-Brain Prevention via Quorum",
+    "Optimistic Concurrency Control (OCC)"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -207,6 +209,7 @@
     "Mitigating Cache Stampede via Probabilistic Early Expiration",
     "Discuss API Versioning Strategies Explicitly",
     "Automating Architectural Fitness Functions",
-    "Proactively Address Poison Pill Messages"
+    "Proactively Address Poison Pill Messages",
+    "Structuring Post-Mortems to Foster a Blameless Culture"
   ]
 }
