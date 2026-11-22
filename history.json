@@ -47,12 +47,10 @@
     "Kasai's Algorithm",
     "Welzl's Algorithm",
     "Gale-Shapley Algorithm",
-    "Stoer-Wagner Algorithm"
+    "Stoer-Wagner Algorithm",
+    "Push-Relabel Algorithm"
   ],
   "gre_words": [
-    "Pusillanimous",
-    "Peregrination",
-    "Obstreperous",
     "Ineffable",
     "Cogent",
     "Sanguine",
@@ -109,7 +107,10 @@
     "Exculpate",
     "Sybarite",
     "Perspicacious",
-    "Equanimity"
+    "Equanimity",
+    "Assiduous",
+    "Pellucid",
+    "Insouciant"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -159,7 +160,8 @@
     "SSTable (Sorted String Table)",
     "LMAX Disruptor Pattern",
     "Split-Brain Prevention via Quorum",
-    "Optimistic Concurrency Control (OCC)"
+    "Optimistic Concurrency Control (OCC)",
+    "Strict Serializability"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -210,6 +212,7 @@
     "Discuss API Versioning Strategies Explicitly",
     "Automating Architectural Fitness Functions",
     "Proactively Address Poison Pill Messages",
-    "Structuring Post-Mortems to Foster a Blameless Culture"
+    "Structuring Post-Mortems to Foster a Blameless Culture",
+    "Address Database Index Maintenance and Bloat Early"
   ]
 }
