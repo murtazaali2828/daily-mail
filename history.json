@@ -48,12 +48,10 @@
     "Welzl's Algorithm",
     "Gale-Shapley Algorithm",
     "Stoer-Wagner Algorithm",
-    "Push-Relabel Algorithm"
+    "Push-Relabel Algorithm",
+    "Sparse Table"
   ],
   "gre_words": [
-    "Ineffable",
-    "Cogent",
-    "Sanguine",
     "Recalcitrant",
     "Proclivity",
     "Specious",
@@ -110,7 +108,10 @@
     "Equanimity",
     "Assiduous",
     "Pellucid",
-    "Insouciant"
+    "Insouciant",
+    "Obdurate",
+    "Blandishment",
+    "Protean"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -161,7 +162,8 @@
     "LMAX Disruptor Pattern",
     "Split-Brain Prevention via Quorum",
     "Optimistic Concurrency Control (OCC)",
-    "Strict Serializability"
+    "Strict Serializability",
+    "NUMA (Non-Uniform Memory Access Architecture)"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -213,6 +215,7 @@
     "Automating Architectural Fitness Functions",
     "Proactively Address Poison Pill Messages",
     "Structuring Post-Mortems to Foster a Blameless Culture",
-    "Address Database Index Maintenance and Bloat Early"
+    "Address Database Index Maintenance and Bloat Early",
+    "Implementing Distributed Tracing Context Propagation"
   ]
 }
