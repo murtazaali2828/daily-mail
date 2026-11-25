@@ -50,12 +50,10 @@
     "Stoer-Wagner Algorithm",
     "Push-Relabel Algorithm",
     "Sparse Table",
-    "Karatsuba Algorithm"
+    "Karatsuba Algorithm",
+    "Huffman Coding Algorithm"
   ],
   "gre_words": [
-    "Munificent",
-    "Exigent",
-    "Salubrious",
     "Trenchant",
     "Laconic",
     "Grandiloquent",
@@ -112,7 +110,10 @@
     "Protean",
     "Calumny",
     "Pusillanimous",
-    "Sanguine"
+    "Sanguine",
+    "Inscrutable",
+    "Peregrination",
+    "Noxious"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -165,7 +166,8 @@
     "Optimistic Concurrency Control (OCC)",
     "Strict Serializability",
     "NUMA (Non-Uniform Memory Access Architecture)",
-    "Two-Phase Locking (2PL)"
+    "Two-Phase Locking (2PL)",
+    "eBPF (Extended Berkeley Packet Filter)"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -219,6 +221,7 @@
     "Structuring Post-Mortems to Foster a Blameless Culture",
     "Address Database Index Maintenance and Bloat Early",
     "Implementing Distributed Tracing Context Propagation",
-    "Quantify Technical Debt with Financial Impact Metrics"
+    "Quantify Technical Debt with Financial Impact Metrics",
+    "Address Data Sovereignty and Compliance Early"
   ]
 }
