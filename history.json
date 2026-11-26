@@ -51,12 +51,10 @@
     "Push-Relabel Algorithm",
     "Sparse Table",
     "Karatsuba Algorithm",
-    "Huffman Coding Algorithm"
+    "Huffman Coding Algorithm",
+    "K-D Tree Nearest Neighbor Search"
   ],
   "gre_words": [
-    "Trenchant",
-    "Laconic",
-    "Grandiloquent",
     "Eschew",
     "Excoriate",
     "Perfidy",
@@ -113,7 +111,10 @@
     "Sanguine",
     "Inscrutable",
     "Peregrination",
-    "Noxious"
+    "Noxious",
+    "Ephemeral",
+    "Sycophant",
+    "Anomalous"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -167,7 +168,8 @@
     "Strict Serializability",
     "NUMA (Non-Uniform Memory Access Architecture)",
     "Two-Phase Locking (2PL)",
-    "eBPF (Extended Berkeley Packet Filter)"
+    "eBPF (Extended Berkeley Packet Filter)",
+    "Memory Barrier (Memory Fence)"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -222,6 +224,7 @@
     "Address Database Index Maintenance and Bloat Early",
     "Implementing Distributed Tracing Context Propagation",
     "Quantify Technical Debt with Financial Impact Metrics",
-    "Address Data Sovereignty and Compliance Early"
+    "Address Data Sovereignty and Compliance Early",
+    "Isolating Failures with the Bulkhead Pattern"
   ]
 }
