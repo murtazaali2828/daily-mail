@@ -52,12 +52,10 @@
     "Sparse Table",
     "Karatsuba Algorithm",
     "Huffman Coding Algorithm",
-    "K-D Tree Nearest Neighbor Search"
+    "K-D Tree Nearest Neighbor Search",
+    "Ukkonen's Algorithm"
   ],
   "gre_words": [
-    "Eschew",
-    "Excoriate",
-    "Perfidy",
     "Redoubtable",
     "Verisimilitude",
     "Propinquity",
@@ -114,7 +112,10 @@
     "Noxious",
     "Ephemeral",
     "Sycophant",
-    "Anomalous"
+    "Anomalous",
+    "Effulgent",
+    "Laconic",
+    "Abnegation"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -169,7 +170,8 @@
     "NUMA (Non-Uniform Memory Access Architecture)",
     "Two-Phase Locking (2PL)",
     "eBPF (Extended Berkeley Packet Filter)",
-    "Memory Barrier (Memory Fence)"
+    "Memory Barrier (Memory Fence)",
+    "Shadow Paging"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -225,6 +227,7 @@
     "Implementing Distributed Tracing Context Propagation",
     "Quantify Technical Debt with Financial Impact Metrics",
     "Address Data Sovereignty and Compliance Early",
-    "Isolating Failures with the Bulkhead Pattern"
+    "Isolating Failures with the Bulkhead Pattern",
+    "Mitigating Failures with Backoff and Jitter"
   ]
 }
