@@ -53,12 +53,10 @@
     "Karatsuba Algorithm",
     "Huffman Coding Algorithm",
     "K-D Tree Nearest Neighbor Search",
-    "Ukkonen's Algorithm"
+    "Ukkonen's Algorithm",
+    "Centroid Decomposition"
   ],
   "gre_words": [
-    "Redoubtable",
-    "Verisimilitude",
-    "Propinquity",
     "Anachronistic",
     "Spurious",
     "Supercilious",
@@ -115,7 +113,10 @@
     "Anomalous",
     "Effulgent",
     "Laconic",
-    "Abnegation"
+    "Abnegation",
+    "Munificent",
+    "Intransigent",
+    "Ineffable"
   ],
   "cs_concepts": [
     "Write-Ahead Logging (WAL)",
@@ -171,7 +172,8 @@
     "Two-Phase Locking (2PL)",
     "eBPF (Extended Berkeley Packet Filter)",
     "Memory Barrier (Memory Fence)",
-    "Shadow Paging"
+    "Shadow Paging",
+    "Write Amplification in Solid-State Drives"
   ],
   "tips": [
     "Clarify Constraints Before Coding",
@@ -228,6 +230,7 @@
     "Quantify Technical Debt with Financial Impact Metrics",
     "Address Data Sovereignty and Compliance Early",
     "Isolating Failures with the Bulkhead Pattern",
-    "Mitigating Failures with Backoff and Jitter"
+    "Mitigating Failures with Backoff and Jitter",
+    "Utilize Fencing Tokens for Distributed Locking"
   ]
 }
